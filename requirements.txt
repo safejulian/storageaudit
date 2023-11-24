@@ -1,0 +1,5 @@
+azure-storage-blob==12.8.1
+azure-identity
+azure-mgmt-subscription
+azure-mgmt-storage
+azure-mgmt-resource
